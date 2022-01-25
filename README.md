@@ -1,3 +1,3 @@
 # PCB-Desin-Files
 Layout ScreenShots
-These are the screenshots of layout which i worked on.
+These are the screenshots of PCB layout which i worked on.
